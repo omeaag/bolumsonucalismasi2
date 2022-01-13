@@ -1,0 +1,16 @@
+# proje içerisinde versiyon kontrol sisteminde yer kaplamasını istemeyeceğimiz dosyların formatını buraya ekleyip projemizin daha küçük boyutta olmasını .gitignore ile sağlarız. ' * ' işareti o formatta bulunan tüm dosyaları kapsar.
+
+# videos
+*.mp4
+
+# img
+*.jpg
+*.png
+img/
+
+#packages
+
+# log
+*.log
+
+password.txt
